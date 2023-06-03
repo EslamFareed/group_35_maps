@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "844385858175",
+    "firebase_url": "https://group-35-a28b8-default-rtdb.firebaseio.com",
+    "project_id": "group-35-a28b8",
+    "storage_bucket": "group-35-a28b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844385858175:android:bd12ab6c9316714c56054a",
+        "android_client_info": {
+          "package_name": "com.example.group_35_maps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuVVSCoIzX-QmNR3lvm6600wQg0fEJm84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
