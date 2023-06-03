@@ -25,6 +25,7 @@ class MapSampleState extends State<MapSample> {
   Set<Marker>? markers = {};
   @override
   Widget build(BuildContext context) {
+    print("error");
     return Scaffold(
       body: GoogleMap(
         onTap: (argument) {
